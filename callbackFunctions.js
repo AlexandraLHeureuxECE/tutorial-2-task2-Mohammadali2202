@@ -24,10 +24,6 @@ let triangleFrame = function(letter) {
 
     return framedLetter;
 }
-
-// Test the triangleFrame function
-console.log(triangleFrame('A'));
-
 // Define the rectangleFrame function
 let rectangleFrame = function(letter) {
     let framedLetter = '';
